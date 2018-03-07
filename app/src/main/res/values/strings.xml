@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="From">From: </string>
+    <string name="To">To: </string>
+    <string name="Switch">Switch</string>
+    <string name="Calculate">Calculate</string>
+    <string name="initValue">0.00</string>
+    <string name="Change">Change Currency</string>
+    <string name="EmptyField">Please fill up all fields</string>
+
+    <!-- Different currency -->
+    <string name="DOP">Dominican Pesos</string>
+    <string name="USD">United State Dollars</string>
+    <string name="EUR">Euro</string>
+    <string name="MXN">Mexican Pesos</string>
+
+</resources>
