@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertidor de monedas</string>
+    <string name="From">Desde</string>
+    <string name="To">Para</string>
+    <string name="Switch">Cambiar</string>
+    <string name="Calculate">Calcular</string>
+    <string name="initValue">0.00</string>
+    <string name="Change">Cambiar Moneda</string>
+    <string name="EmptyField">Por favor completar todos los campos</string>
+    <string name="CurrencyRatesBTN">Ver tasas de cambios</string>
+    <string name="DOP">Pesos Dominicanos</string>
+    <string name="USD">Dollars Estados Unidos</string>
+    <string name="EUR">Euro</string>
+    <string name="MXN">Pesos Mexicanos</string>
+    <string name="ResultTV">Mi resultado</string>
+    <string name="NewCalcBTN">Nueva conversión</string>
+</resources>
