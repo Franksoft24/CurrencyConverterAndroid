@@ -3,4 +3,9 @@
     <color name="colorPrimary">#26de81</color>
     <color name="colorPrimaryDark">#20bf6b</color>
     <color name="colorAccent">#4b7bec</color>
+    <color name="black">#000</color>
+    <color name="MyButtons">#2bcbba</color>
+    <color name="ButtonsCopy">#d1d8e0</color>
+    <color name="MyButtonsShadows">#0fb9b1</color>
+    <color name="lightBlue">#778ca3</color>
 </resources>

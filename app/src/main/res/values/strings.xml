@@ -7,11 +7,16 @@
     <string name="initValue">0.00</string>
     <string name="Change">Change Currency</string>
     <string name="EmptyField">Please fill up all fields</string>
+    <string name="CurrencyRatesBTN">See full list of selected currency</string>
 
     <!-- Different currency -->
     <string name="DOP">Dominican Pesos</string>
     <string name="USD">United State Dollars</string>
     <string name="EUR">Euro</string>
     <string name="MXN">Mexican Pesos</string>
+
+    <!-- Result Layout -->
+    <string name="ResultTV">My result:</string>
+    <string name="NewCalcBTN">New exchange</string>
 
 </resources>
